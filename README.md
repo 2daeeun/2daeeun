@@ -1,19 +1,17 @@
-### Hi there 👋
+### 👋 info
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2daeeun)](https://github.com/2daeeun/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2daeeun)](https://github.com/2daeeun/github-readme-stats)
+## 🎛️ OS
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></img>
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></img>
 
-<!--
-**2daeeun/2daeeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Language
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
 
-Here are some ideas to get you started:
+## 💻 IDEs/Editors
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me on
+<a href="https://twitter.com/2daeeun"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/2daeeun"/></a> 
+<a href="mailto:leedaeeun@kakao.com"><img src="https://img.shields.io/badge/KakaoMail-FFCD00.svg?&style=for-the-badge&logo=KakaoMail&logoColor=white&link=mailto:leedaeeun@kakao.com"/></a>
