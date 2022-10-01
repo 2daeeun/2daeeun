@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+?style=plastic&logo=appveyor
+
 <!--
 **2daeeun/2daeeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
