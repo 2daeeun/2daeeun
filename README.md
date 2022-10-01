@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-?style=plastic&logo=appveyor
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2daeeun)](https://github.com/2daeeun/github-readme-stats)
 
 <!--
 **2daeeun/2daeeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
