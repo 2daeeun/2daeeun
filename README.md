@@ -18,6 +18,7 @@
 ## Reach me on
 <a href="https://twitter.com/2daeeun"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/2daeeun"/></a>
 
+## GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2daeeun&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=2daeeun&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2daeeun&theme=default&utcOffset=8)
