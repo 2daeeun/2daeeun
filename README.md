@@ -2,7 +2,8 @@
 
 * Born : 1998
 * Nationality	: Republic of Korea
-* Education	: null
+<!-- * Education	: null -->
+<!-- * Job	: null -->
 
 ## My Development Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -16,3 +17,5 @@
 
 ## Reach me on
 <a href="https://twitter.com/2daeeun"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/2daeeun"/></a>
+
+[![](https://raw.githubusercontent.com/2daeeun/2daeeun/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
