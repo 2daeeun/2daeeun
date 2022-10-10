@@ -16,7 +16,7 @@
 ## Book is read finish.
 |    |책의 제목|설명|
 |----|----|----|
-|책의 표지|<img src = "http://image.kyobobook.co.kr/images/book/xlarge/703/x9791187370703.jpg" width="width 20%" height="height 30%">||
+<!-- |책의 표지|<img src = "http://image.kyobobook.co.kr/images/book/xlarge/703/x9791187370703.jpg" width="30%" height="30%">|![drawing](do_it.jpg)| -->
 |책 구매처 |테스트2|테스트3|
 ## Book is reading
 
