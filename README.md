@@ -14,8 +14,9 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Study
-* [Read finish]()
-* [Reading]()
+* [Read finish](https://github.com/2daeeun/2daeeun/blob/main/book/Read_finish.md)
+* [Reading](https://github.com/2daeeun/2daeeun/blob/main/book/Reading.md)
+* [Unread](https://github.com/2daeeun/2daeeun/blob/main/book/Unread.md)
 
 ## Reach me on
 <a href="https://twitter.com/2daeeun"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/2daeeun"/></a>
