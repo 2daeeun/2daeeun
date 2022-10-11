@@ -13,13 +13,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## Book is read finish.
-|    |책의 제목|설명|
-|----|----|----|
-<!-- |책의 표지|<img src = "http://image.kyobobook.co.kr/images/book/xlarge/703/x9791187370703.jpg" width="30%" height="30%">|![drawing](do_it.jpg)| -->
-|책 구매처 |테스트2|테스트3|
-## Book is reading
-
+## Study
+* [Read finish]()
+* [Reading]()
 
 ## Reach me on
 <a href="https://twitter.com/2daeeun"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/2daeeun"/></a>
