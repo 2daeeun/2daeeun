@@ -18,7 +18,7 @@
 <!-- * [Reading](https://github.com/2daeeun/2daeeun/blob/main/book/Reading.md) -->
 
 ## Reach me on
-<a href="https://twitter.com/2daeeun"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/2daeeun"/></a>
+<!-- <a href="https://twitter.com/2daeeun"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/2daeeun"/></a> -->
 <a href="https://htmlpreview.github.io/?https://github.com/2daeeun/2daeeun/blob/main/mail.html"><img src="https://img.shields.io/badge/MAIL-00A95C?style=for-the-badge&logo=iCloud&logoColor=white"/></a>
 
 <!-- ## Workload per week -->
